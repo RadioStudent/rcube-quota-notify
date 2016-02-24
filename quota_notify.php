@@ -1,6 +1,6 @@
 <?php
 
-class quota_popup extends rcube_plugin {
+class quota_notify extends rcube_plugin {
   public $task = 'mail';
 
   function init() {
